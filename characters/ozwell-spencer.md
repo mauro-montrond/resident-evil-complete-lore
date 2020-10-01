@@ -1,3 +1,3 @@
 # Oswell Spencer
 
-![Image of Oswell Spencer](../images/oswellspencer.jpg)
+![Image of Ozwell Spencer](../images/oswellspencer.jpg)
