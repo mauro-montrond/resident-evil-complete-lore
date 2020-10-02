@@ -1,3 +1,3 @@
 # Edward Ashford
 
-![Image of Edward Ashford](../images/edwardashford.jpg)
+![Image of Edward Ashford](../images/edward-ashford.jpg)
