@@ -14,12 +14,12 @@ In the 19th century, a european explorer named Henry Travis, through many years 
 
 In his book, Survey of Natural History, he talked about a expedition that occurred in West Africa, in the Kijuju region where he found a rare flower known as the Stairway of the Sun also known by his the scientific name Sonnentreppe.
 
-![Stairway of the Sun](../images/stairway-of-the-sun.png)
+![Stairway of the Sun](images/stairway-of-the-sun.png)
 
 
 The flower was found in the ruins of an extinct Kingdom Ndipaya in a underground garden called Sun Garden.
 
-![Sun Garden](../images/sungarden.png)
+![Sun Garden](images/sungarden.png)
 
 What was so special about the rare flower is that it was not only toxic to most who consumed which were caused by a virus infection but under special circumstances, those who survive the infection gained
 superhuman strength and intelligence.
@@ -51,7 +51,7 @@ It's in this period that the divergence of objectives and ideals between the old
 
 During this time, [Spencer](characters/ozwell-spencer.md) began construction on a mansion in the Arklay Mountains the would also serve as a secret Umbrella laboratory. [George Trevor](characters/george-trevor.md) was the architect responsible for the design and the construction of the mansion. [Spencer](characters/ozwell-spencer.md) admired his surreal designs.
 
-![Spencer Mansion](../images/spencer-mansion.jpg)
+![Spencer Mansion](images/spencer-mansion.jpg)
 
 Upon the completion of the mansion in 1967, [Spencer](characters/ozwell-spencer.md) realised that [Trevor](characters/george-trevor.md) was aware of the laboratory and knew too much and began making plans for disposing him. He invited [Trevor](characters/george-trevor.md), his wife [Jessica](characters/jessica-trevor.md) and his 14 years old daughter [Lisa](characters/lisa-trevor.md) to the house to celebrate the completion of the Spencer Mansion. [Spencer](characters/ozwell-spencer.md) planned to use them as test subjects in his Progenitor research.
 
@@ -69,13 +69,13 @@ When [Trevor](characters/george-trevor.md) finally arrived at the Spencer Mansio
 
 In 1968, [Ozwell E. Spencer](characters/ozwell-spencer.md) creates the Umbrella Corporation which would initially operate in the pharmaceutical sector with his headquarters established in Europe.
 
-![Umbrella Corporation](../images/umbrella-corporation.png)
+![Umbrella Corporation](images/umbrella-corporation.png)
 
 [Spencer](characters/ozwell-spencer.md) orders in secret, construction of a complex next to the Sun Garden, in Africa, to create more samples of the Progenitor.
 
 A Umbrella Research Center is established in Raccoon City, in the Arklay Mountains, to train scientists and special employees for Umbrella. Marcus, reluctantly accepts the position as director of the training facility.
 
-![Training Facility](../images/training-facility.png)
+![Training Facility](images/training-facility.png)
 
 
 ## Project Code Veronica
