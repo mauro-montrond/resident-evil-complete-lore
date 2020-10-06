@@ -6,7 +6,7 @@
 + [Patient Zero](#patient-zero)
 + [Umbrella Corporation](#umbrella-corporation)
 + [Project Code Veronica](#project-code-veronica)
-+ [The Wesker Project](#the-wesker-project)
++ [Spencer Secret Project](#spencer-secret-project)
 
 ## Natural History
 
@@ -67,9 +67,9 @@ When [Trevor](characters/george-trevor.md) finally arrived at the Spencer Mansio
 
 [Trevor](characters/george-trevor.md) is also imprisoned but manages to escape his confinement and runs into the underground tunnels. With no chance of escaping, he stumbles upon a tombstone with his name written on it. Being desperate, exhausted and starving for days, [Trevor](characters/george-trevor.md) dies alone in the tunnels.
 
-[Jessica](characters/jessica-trevor.md) and [Lisa](characters/lisa-trevor.md) suffer as subjects. Spencer's scientists creats two derivations of the Progenitor Virus. [Jessica](characters/jessica-trevor.md) receives sample Type-A, which causes a terrible reaction and results in her death. [Lisa](characters/lisa-trevor.md) receive sample Type-B e her body reacts , adapting to the virus. The girl is kept isoladed and under surveillance.
+[Jessica](characters/jessica-trevor.md) and [Lisa](characters/lisa-trevor.md) suffer as test subjects. Spencer's scientists creats two variations of the Progenitor Virus. [Jessica](characters/jessica-trevor.md) received sample Type-A, which causes a terrible reaction and results in her death. [Lisa](characters/lisa-trevor.md) received sample Type-B and her body surprisingly adapts to the virus. The girl is kept isoladed and under surveillance.
 
-[Lisa](characters/lisa-trevor.md) received a new dose of the Progenitor and as side-effect, the girl began to lose her sanity and suffer severes physical deformaties. She also gained an uncommon physical strength and accelerated regenerative capabilities.
+[Lisa](characters/lisa-trevor.md) received a new dose of the Progenitor and as side-effect, she began losing her sanity and suffered severes physical deformaties. She also gained an uncommon physical strength and accelerated regenerative capabilities.
 
 ## Umbrella Corporation
 
@@ -82,18 +82,29 @@ Umbrella - "Our Business is Life Itself..."|
 
 [Spencer](characters/ozwell-spencer.md) orders in secret, construction of a complex next to the Sun Garden, in Africa, to create more samples of the Progenitor.
 
-A Umbrella Research Center is established in Raccoon City, in the Arklay Mountains, to train scientists and special employees for Umbrella. Marcus, reluctantly accepts the position as director of the training facility.
+A Umbrella Executive Training Facility  is established in Raccoon City, in the Arklay Mountains, to train scientists and special employees for Umbrella. [Marcus](characters/james-marcus.md), reluctantly accepts the position as director of the Umbrella Executive Training Facility.
 
-Training Facility - Arklay Mountains |
+Umbrella Executive Training Facility - Arklay Mountains |
 ------------ |
-![Training Facility](images/training-facility.png)|
+![Umbrella Executive Training Facility](images/training-facility.png)|
 
+Soon after the creation of Umbrella, [Edward Ashford](characters/edward-ashford.md) dies due to exposure of the Progenitor Virus. As result of his death, [Spencer](characters/ozwell-spencer.md) gains more influence and power inside the company.
+
+Edward's son, [Alexander Ashford](characters/alexander-ashford.md), continues his father's research and sees the power and influence of the Ashford Family inside Umbrella diminish which ruined the name of the family in european aristocracy.
+
+[Alexander](characters/alexander-ashford.md) uses his knowledge in genetics engineering and orders the construction of a Antartic Installation, where he would work in a private project  without [Spencer](characters/ozwell-spencer.md) awareness called Project Code: Veronica.
 
 
 ## Project Code Veronica
 
+[Alexander Ashford](characters/alexander-ashford.md) wasn't a natural born leader and he desired to be like his ancester, [Veronica Ashford](characters/veronica-ashford-matriarch.md). The matriarch of the family was a women ahead of her time, beautiful and extremelly intelligent.
 
-## The Wesker Project
+With his knowledge in genetics engineering, [Alexander](characters/alexander-ashford.md) made a notable discovery in identifying the human gene responsible for intelligence.
+
+
+## Spencer Secret Project
+
+
 
 ## Sources
 1. [As Grandes Historias de Videogames - Resident Evil Parte 1](https://www.amazon.com/Grandes-Hist%C3%B3rias-Videogames-Resident-Evil/dp/8579602769)
