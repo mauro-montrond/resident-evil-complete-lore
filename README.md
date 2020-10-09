@@ -1,10 +1,5 @@
 # Resident Evil Complete Lore
 
-## Introduction
-
-
-
-
 ## Contents
 + [Prologue](prologue.md)
 + [Resident Evil 0](resident-evil-0.md)
