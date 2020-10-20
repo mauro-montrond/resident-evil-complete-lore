@@ -1,0 +1,39 @@
+html, body {
+  font-family: 'Staatliches', cursive;
+}
+
+#brand {
+  color: red;
+  font-size: 38px;
+}
+
+.stylus-red {
+  color: red;
+}
+
+.is-cream{
+  background-color:#F2F7F2;
+}
+
+.slick-dots{
+  position: relative;
+  bottom: -35px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #000;
+}
+
+.slick-next {
+  right: 15px;
+}
+
+.slick-prev {
+  left: 15px;
+  z-index: 9999; /* fix previous button */
+}
